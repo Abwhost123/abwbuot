@@ -1,8 +1,8 @@
 ##CARA INSTALL MELALUI GIT
 
 > pkg install git
-> gitclone https://github.com/Fernazer
-> cd Fernazer
+> gitclone https://github.com/Abhost123/abwbuot
+> cd abwbuot
 > bash install.sh
 > npm start
 > scan qr
